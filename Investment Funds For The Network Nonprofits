@@ -1,0 +1,14 @@
+--create-transaction[addressFrom: '_0xe688b84b23f322a994A53dbF8E15FA82CDB71127'[AmountUint256: '500x00 Ether, ETH']], [addressTo: '0xEd70927F4E2Cdd3000cd20Db57fFe2E3e9683159']
+--fee FEE, -f FEE.  TransactionFee
+--fee-per-kb FEE_PER_KB.   transaction fee in sathosis(or smallest denominator)
+ per kilobyte
+   --push,-p push created transaction to the network
+    --import-tx Transaction, I Transaction
+        Import raw transaction hash or transaction dictionary 
+          in wallet and sign it with available key(s)
+             --import-tx-file FileName_transaction, AngelNetCoin-Mainnet_Transaction
+
+Import transaction dictionary or raw transaction string from specified filename and sign it with  available key(s)
+--ApproveTransaction_Deploy_on_commit
+
+yarn_deploy_on_commit
