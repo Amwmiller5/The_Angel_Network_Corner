@@ -1,0 +1,96 @@
+ERC-1155 Standard for Polygon
+dependency{
+  node.js /8.13.0
+   @openzepplin/contracts^5.0.0
+   @truffle/hd-wallet-provider^2.1.15
+  truffle-plugin-verify ^0.6.7
+    truffleWeb3
+endpoint@quicknode/polygon
+  mkdir nft_project && cd nft_project
+npm install-g truffle
+npm init --y && truffle init
+importTransactions
+pageTitle: "NFT_Collections"
+Text_Below_Title: "Complete collections to be entered in monthly drawings; 1 entry per complete collection"
+importNFT_Collections{
+NFT_Collection: AngelNetCoin_NFT, ANC_NFT, https://opensea.io/collection/angelnetcoin_nft(RoyaltyInfo: To:0xEd70927F4E2Cdd3000cd20Db57fFe2E3e9683159
+  Function: setRoyaltyInfo((address, uint96))
+newInfo.royaltyAddress: address
+newInfo.royaltyBPs: uint96, 300
+txnType:2(EIP-1559) Nonce:2 Block:75
+transactionHash: 0x034d7f211dc83bf09213185d134ff3b78ddd2225f8e395f856d9df38bb1358f7
+snapBal: "$1987.8820 ETH"
+Val: 1=005 ETH
+@Ethernetscan.io
+[import, deploy, post,displayForSell
+price: 005 ETH]
+ }
+}
+importNFT{
+ Angels Among Us, AAU
+  https://celo_mainnet.io
+   Collection:
+Contract: 0x75d30255a47772dd60bc56d7a8536d0a79669ecf
+address: 0x3a5f0c41483998A0d7748Ef2B28DBd77FCB517A
+Block:24173280 
+value: 1= 0.096 5444
+NFT TokenId: 86832 (import, deploy, post, displayForSell)
+price: 0.006 ETH
+
+NFT ,: 86833 (import, deploy, post, displayForSell)
+price: 0.0055 ETH
+
+NFT TokenId: 86834 (import, deploy, post, displayForSell)
+price: 0.0045 ETH
+
+NFT TokenId: 86835 (import, deploy, post, displayForSell)
+price: 0.0052 ETH
+
+NFT TokenId: 86836 (import, deploy, post, displayForSell)
+price: 0.00612 ETH
+
+ NFT TokenId: 86837 (import, deploy, displayForSell)
+price: 0.007 ETH
+
+NFT TokenId: 86885 (import, deploy, post, displayForSell)
+price: 0.0055 ETH
+
+NFT TokenId: 86886 (import, deploy, post, displayForSell)
+price: 0.00538 ETH
+
+NFT TokenId: 86887 (import, deploy, post, displayForSell)
+price: 0.006 ETH
+
+NFT TokenId: 86889 (import, deploy, post, displayForSell)
+price: 0.008 ETH
+
+NFT TokenId: 86890 (import, deploy, post, displayForSell)
+price: 0.004 ETH
+
+NFT TokenId: 86891 (import, deploy, post, displayForSell)
+price: 0.0038 ETH
+
+NFT TokenId: 86892 (import, deploy, post, displayForSell)
+price 0.009 ETH
+ }
+}
+importNFT{
+ aheavensangel
+contract: 0xF112690E229B6e88d3578EB5481f05D62595557d (import, deploy, post, displayForSell)
+price: 0.007 ETH
+contract: 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 (import, deploy, post, displayForSell)
+price: 0.005
+ }
+}
+import { https://rarible.com/AngelNetworkNFTConnection
+(import, embed, deploy, post, displayForSell)
+price: 0.03
+}
+ embed and link and sync{ https://AngelNetworkNFTCollections.unicornplatform.page/meet-our-angelnetworkcorner-angels/?noca
+(import, embed, deploy, post, displayForSell)
+price: listedInLink
+}
+embed and link and sync{
+https://spearmint.xyz/p/the-angelnetwork-nft-collections-drawings
+(embed, link, sync, deploy, post)
+AllowDisplayAllImages: DisplayImages
